@@ -14,6 +14,6 @@ Simple makefile copy for windows with not all features but it can be used for la
 
 4. Under user variables for user (your user name) double click variable Path. 
 
-5. Click new and there add the location of your directory where the exe is located. I recommend you naming that exe make.exe so you can run the command `make` (you need to build the main.go file by running command `go build` or download it from [here](/releases)).
+5. Click new and there add the location of your directory where the exe is located. I recommend you naming that exe make.exe so you can run the command `make` (you need to build the main.go file by running command `go build` or download it from [here](https://github.com/MichalUSER/WindowsMakefile/releases/)).
 
 ![image.png](image.png)
